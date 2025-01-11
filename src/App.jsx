@@ -5,7 +5,7 @@ import Main from './components/Main.jsx';
 import Footer from './components/Footer.jsx';
 
 const App = () => {
-  const [coins, setCoins] = useState(1000);
+  const [coins, setCoins] = useState(0);
   const [selectedPlayers, setSelectedPlayers] = useState([]);
 
   const addCoins = () => {
