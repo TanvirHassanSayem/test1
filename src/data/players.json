@@ -3,7 +3,7 @@
     "playerId": 1,
     "name": "Virat Kohli",
     "country": "India",
-    "image": "Virat-Kohli.jpg",
+    "image": "https://i.ibb.co.com/PMhqdxW/Virat-Kohli.jpg",
     "role": "Batsman",
     "handType": "Right-hand bat",
     "price": 100
@@ -12,7 +12,7 @@
     "playerId": 2,
     "name": "Pat Cummins",
     "country": "Australia",
-    "image": "pat.jpg",
+    "image": "https://i.ibb.co.com/YyLrmHY/Pat.jpg",
     "role": "Bowler",
     "handType": "Left-hand bowler",
     "price": 120
@@ -21,7 +21,7 @@
     "playerId": 3,
     "name": "Micheal Johnson",
     "country": "Australia",
-    "image": "jhonson.jpg",
+    "image": "https://i.ibb.co.com/sVYBSFb/jhonson.jpg",
     "role": "All-rounder",
     "handType": " Right-arm medium",
     "price": 150
@@ -30,7 +30,7 @@
     "playerId": 4,
     "name": "Michael Clarke",
     "country": "Australia",
-    "image": "clark.avif",
+    "image": "https://i.ibb.co.com/XFM6Tc8/clark.jpg",
     "role": "Wicketkeeper",
     "handType": "Right-hand",
     "price": 800
@@ -39,7 +39,7 @@
     "playerId": 5,
     "name": "Sakib Al Hasan",
     "country": "BD",
-    "image": "Sakib.jpg",
+    "image": "https://i.ibb.co.com/59LGsxK/Sakib.jpg",
     "role": "Batsman",
     "handType": "Left-hand bat",
     "price": 110
@@ -48,7 +48,7 @@
     "playerId": 6,
     "name": "Mustafizur Rahman",
     "country": "BD",
-    "image": "mus.jpg",
+    "image": "https://i.ibb.co.com/CM9yYR1/mus.jpg",
     "role": "Bowler",
     "handType": "Right-arm fast",
     "price": 130
@@ -57,7 +57,7 @@
     "playerId": 7,
     "name": "Tamim Iqbal",
     "country": "Bangladesh",
-    "image": "tamim.jpg",
+    "image": "https://i.ibb.co.com/vVcq96f/tamim.jpg",
     "role": "All-rounder",
     "handType": "Left-arm spin",
     "price": 140
@@ -66,7 +66,7 @@
     "playerId": 8,
     "name": "Micheal Starc",
     "country": "Australia",
-    "image": "Stac.avif",
+    "image": "https://i.ibb.co.com/XknHsZj/Stac.jpg",
     "role": "Batsman",
     "handType": "Right-hand bat",
     "price": 950
@@ -75,7 +75,7 @@
     "playerId": 9,
     "name": "Rohit Sharma",
     "country": "India",
-    "image": "hit.avif",
+    "image": "https://i.ibb.co.com/zmRc9Lw/hit.jpg",
     "role": "Bowler",
     "handType": "Left-arm fast",
     "price": 125
