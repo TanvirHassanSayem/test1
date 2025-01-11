@@ -1,0 +1,58 @@
+.selected-players {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.selected-player-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #f9f9f9;
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.player-info {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  width: 100%;
+}
+
+.player-avatar {
+  width: 50px; /* Set avatar size */
+  height: 50px;
+  border-radius: 50%; /* Makes it circular */
+  object-fit: cover;
+}
+
+.player-details {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.player-name {
+  font-size: 16px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.player-role {
+  font-size: 14px;
+  color: #7f8c8d;
+  margin: 0;
+}
+
+.remove-icon {
+  font-size: 20px;
+  color: #e74c3c;
+  cursor: pointer;
+  transition: color 0.3s ease;
+}
+
+.remove-icon:hover {
+  color: #c0392b;
+}
